@@ -110,3 +110,34 @@ body{
 #paper img{
   width: 3.5rem;
 }
+
+/*philo section*/
+
+#philo{
+    justify-content: center;
+}
+
+.text-box{
+  display: flex;
+  flex-direction: column;
+  border: solid 2px aquamarine;
+  margin-top: 3rem;
+  width: 35%;
+  margin-right: 5%;
+}
+
+.title{
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  width: 10rem;
+  height: 2rem;
+  padding-left: 1.25rem;
+  background-color: cadetblue;
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+  border: solid 2px black;
+  margin-bottom: 1rem;
+
+}
