@@ -153,3 +153,25 @@ body{
   padding: 4rem 0rem 4rem 4rem;
   padding-right: 1rem;
 }
+
+/*media queries section*/
+
+@media only screen and (max-width: 1024px){
+  body{
+    max-width: 960px;
+  }
+  #menu{
+    margin-top: 0rem;
+  }
+  #look span{
+    font-size: 1.33rem;
+    line-height: 1.2;
+    background-color: white;
+    padding: 0.75rem 4rem;
+    margin: 10rem 2rem 0rem 0rem;
+  }
+    .section-1{
+      height: 22rem;
+
+    }
+}
