@@ -81,3 +81,32 @@ body{
   color: black;
   border: solid 2px pink;
 }
+
+/*icon section*/
+
+#icon{
+  justify-content: center;
+  margin-top: 3rem;
+  height: 8rem;
+}
+
+.icon-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  width: 5rem;
+  height: 8rem;
+  margin: 0rem 3rem 0 3rem;
+  border: solid 2px aquamarine;
+
+}
+
+.icon-box img{
+  width: 5rem;
+}
+
+#paper img{
+  width: 3.5rem;
+}
