@@ -139,5 +139,17 @@ body{
   font-weight: bold;
   border: solid 2px black;
   margin-bottom: 1rem;
+}
 
+#end{
+  align-items: center;
+  background-color: azure;
+  margin-top: 5rem;
+  border: solid 4px black;
+}
+
+#end img{
+  height: 1.5rem;
+  padding: 4rem 0rem 4rem 4rem;
+  padding-right: 1rem;
 }
